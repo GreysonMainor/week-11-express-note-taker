@@ -1,8 +1,8 @@
 # week-11-express-note-taker
 
 ## Media links:
-
-
+![Picture #1](./media/Note-taker-screenshot.png)
+![Picture #2](./media/note-taker-screenshot-2.png)
 ## Description
 This application allows a user to make notes for themselves that save onto a local server for further use.  This application makes use of routes as well as api data.
 
