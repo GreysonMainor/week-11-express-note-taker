@@ -30,7 +30,7 @@ module.exports = app => {
             return console.log("added new note!")
         });
         app.get("/api/notes/:id", function(req,res){
-            res.json(notes[req.params.id]);
+            res.json(note[req.params.id]);
         });
         
     })
